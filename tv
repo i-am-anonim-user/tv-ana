@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Moldova2.md",Moldova 2
+https://v2.trm.md/static/streaming-playlists/hls/76541c86-d7de-4c73-b4c0-4fe6670b90a8/master.m3u8
+#EXTINF:-1 tvg-id="Digi24.ro",Digi 24 (576p)
+https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
+#EXTINF:-1 tvg-id="BusuiocTV.md",Busuioc TV
+https://busuioctv.iforward.eu/hls/busuioc.m3u8
+#EXTINF:-1 tvg-id="TVRMoldova.md",TVR Moldova
+https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="ChannelOne.ru",Первый канал
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 tvg-id="",Шансон ТВ
+https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TNT.ru",ТНТ
+http://moobl.ru/hls/TNT.m3u8
+#EXTINF:-1 tvg-id="STS.ru",СTС
+http://moobl.ru/hls/STS.m3u8
+#EXTINF:-1 tvg-id="MIR.ru",MИР
+http://moobl.ru/hls/MIR.m3u8
+#EXTINF:-1 tvg-id="MIR24.ru",MИР 24
+http://moobl.ru/hls/MIR_24_hd.m3u8
+#EXTINF:-1 tvg-id="NTV.ru",НТВ МИР
+http://moobl.ru/hls/NTV_mir.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru",Россия 1
+http://moobl.ru/hls/Russia_1_hd.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru",Россия 24
+http://moobl.ru/hls/Russia_24.m3u8
+
+#EXTINF:-1 tvg-id="CinemaSegreto.it",Cinema Segreto
+https://minerva-cinemasegreto-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.it",Rakuten Action Movies Italy (720p)
+https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.it",Rakuten Comedy Movies Italy (720p)
+https://rakuten-comedymovies-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Canale7.it",CANALE 7 (480p)
+http://wms.shared.streamshow.it/canale7/mp4:canale7/playlist.m3u8
+#EXTINF:-1 tvg-id="LA7d.it",La 7 d (720p)
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
+#EXTINF:-1 tvg-id="TeatroTV.it",Teatro TV (720p)
+https://m.iostream.it/hls/teatrotv/teatrotv.m3u8
+#EXTINF:-1,[47] Super!
+https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
+#EXTINF:-1 tvg-id="CafeTV24.it",CafeTV24 (720p)
+https://srvx1.selftv.video/cafe/live/playlist.m3u8
