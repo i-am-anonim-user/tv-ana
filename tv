@@ -1,4 +1,7 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="Moldova1.md",Moldova 1
+https://v.trm.md/static/streaming-playlists/hls/f272ace4-32c2-4271-bbb6-7fc30a5c6105/master.m3u8
 #EXTINF:-1 tvg-id="Moldova2.md",Moldova 2
 https://v2.trm.md/static/streaming-playlists/hls/76541c86-d7de-4c73-b4c0-4fe6670b90a8/master.m3u8
 #EXTINF:-1 tvg-id="Digi24.ro",Digi 24 (576p)
