@@ -11,7 +11,7 @@ https://busuioctv.iforward.eu/hls/busuioc.m3u8
 #EXTINF:-1 tvg-id="TVRMoldova.md",TVR Moldova
 https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="Domashniy.ru", Домашний 
+#EXTINF:-1 "Domashniy.ru", Домашний 
 http://moobl.ru/hls/Domashniy.m3u8
 #EXTINF:-1 tvg-id="TNT.ru",ТНТ
 http://moobl.ru/hls/TNT.m3u8
